@@ -1,6 +1,6 @@
 # Job Analyzer
 Web scraper que devuelve la cantidad de puestos de trabajo por pais (LinkedIn) con un lenguaje dado por el usuario.
-Util para comparar la salida laboral de diferentes tecnologias o para quien busca oportunidades en el exterior.
+Util para comparar la salida laboral de diferentes tecnologías o para quien busca oportunidades en el exterior.
 
 Ejemplo de uso:
 
